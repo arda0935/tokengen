@@ -93,7 +93,7 @@ def register(serverinv):
     sitekey = "f5561ba9-8f1e-40ca-9b5b-a0b3f719ef34"
 
     while True:
-        captchakey = bypass(sitekey, "discord.com", proxy="46.5.252.56:8080")
+        captchakey = bypass(sitekey, "discord.com", proxy=proxies)
         if captchakey == "True":
             continue
         else:
