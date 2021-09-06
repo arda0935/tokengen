@@ -26,7 +26,7 @@ def register(serverinv):
 
     username = "we run cord | " + random_char(5)
     email = random_char(10) + "@" + random_char(10) + ".com"
-    password = 'lostisdaddy2021'
+    password = 'tokengen1337'
 
 
     # Getting cookies
@@ -149,7 +149,7 @@ def register(serverinv):
 
 def manager():
 
-    invitecode = "WX9NTkJd9c"
+    invitecode = "put invite here"
 
     register(invitecode)
 
