@@ -132,7 +132,7 @@ def register(serverinv):
                 "invite": serverinv,
                 "consent": "true",
                 "date_of_birth": "1991-04-06",
-                "gift_code_sku_id": "",
+                "gift_code_sku_id": "null",
                 "captcha_key": captchakey,
                 }
 
